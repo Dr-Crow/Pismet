@@ -1,0 +1,33 @@
+#wrapper > nav > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li.active > a {
+	 background-color:red;
+ }
+
+ #wrapper > nav > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li > a:focus {
+	 background-color:red;
+ }
+ 
+ 
+ #wrapper > nav > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li > a:hover {
+	 background-color:red;
+ }
+ 
+  #wrapper > nav {
+     background-color:#B31B1B;
+ }
+
+ 
+ #wrapper > nav > div.collapse.navbar-collapse.navbar-ex1-collapse > ul {
+     background-color:#B31B1B;
+ }
+ 
+ .top-nav>li>a:hover,
+.top-nav>li>a:focus,
+.top-nav>.open>a,
+.top-nav>.open>a:hover,
+.top-nav>.open>a:focus {
+    color: #b31b1b;
+    background-color: #b31b1b;
+}
+
+
+#wrapper > nav > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li:nth-child(3)
